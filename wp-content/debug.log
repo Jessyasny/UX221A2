@@ -1,0 +1,3 @@
+[08-Mar-2025 03:11:28 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221A2/.wordpress/wp-includes/pluggable.php on line 1625
+[08-Mar-2025 03:22:01 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221A2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[08-Mar-2025 03:22:25 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /workspaces/UX221A2/.wordpress/wp-admin/includes/class-theme-upgrader.php on line 160
