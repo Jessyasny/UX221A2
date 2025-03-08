@@ -1,0 +1,20 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"layout": {
+			"contentSize": "3000px",
+			"wideSize": "3000px"
+		}
+	},
+	"version": 2
+}

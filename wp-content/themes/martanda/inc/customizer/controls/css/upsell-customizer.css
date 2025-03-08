@@ -1,0 +1,120 @@
+.customize-control-addon:before {
+    content: "";
+    height: 1px;
+    width: 100%;
+    background: rgba(0,0,0,.10);
+    display: block;
+    margin-bottom: 10px;
+}
+.customize-control-addon {
+    margin-top: 10px;
+}
+li#accordion-section-martanda_upsell_section {
+    border-top: 1px solid #D54E21;
+    border-bottom: 1px solid #D54E21;
+}
+.martanda-upsell-accordion-section a {
+    background: #FFF;
+    display: block;
+    padding: 10px 10px 11px 14px;
+    line-height: 21px;
+    color: #D54E21;
+    text-decoration: none;
+}
+.martanda-upsell-accordion-section a:hover {
+    background:#FAFAFA;
+}
+.martanda-upsell-accordion-section h3 {
+    margin: 0;
+    position: relative;
+}
+.martanda-upsell-accordion-section h3 a:after {
+    content: "\f345";
+    color: #D54E21;
+    position: absolute;
+    top: 11px;
+    right: 10px;
+    z-index: 1;
+    float: right;
+    border: none;
+    background: none;
+    font: normal 20px/1 dashicons;
+    speak: none;
+    display: block;
+    padding: 0;
+    text-indent: 0;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.wpkoi-addon {
+    text-align: center;
+}
+.get-wpkoi-addon {
+    display: block;
+}
+.get-wpkoi-addon-button {
+    display: inline-block;
+    border: 2px solid #D54E21;
+    background-color: #fff;
+    color: #222;
+    margin: 10px 0;
+    padding: 8px 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.get-wpkoi-addon-button:hover {
+    background-color: #D54E21;
+    color: #fff;
+}
+.get-wpkoi-addon-svg {
+    fill: #D54E21;
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 20px auto;
+    rotate: -15deg;
+}
+.wpkoi-addon-description {
+    margin-top: 5px;
+    font-weight: 500;
+}
+ul.get-wpkoi-addon-list {
+    text-align: left;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+ul.get-wpkoi-addon-list li p {
+    font-weight: 500;
+    margin: 5px 0;
+    font-size: 16px;
+}
+ul.get-wpkoi-addon-list li p svg {
+    fill: #D54E21;
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+#customize-theme-controls #sub-accordion-section-martanda_template_parts_section .customize-control-martanda-template-parts-section {
+    margin: 0 -12px;
+    width: calc(100% + 24px);
+}
+#customize-theme-controls #sub-accordion-section-martanda_template_parts_section .customize-control-martanda-template-parts-section h3 {
+    cursor: pointer;
+}
+#customize-controls #sub-accordion-section-martanda_template_parts_section.control-section .customize-control-martanda-template-parts-section a {
+    text-decoration: none;
+}
+#customize-controls #sub-accordion-section-martanda_template_parts_section.control-section .customize-control-martanda-template-parts-section .accordion-section-title {
+    color: #50575e;
+    text-decoration: none;
+    border-bottom: 1px solid #dcdcde !important;
+    border-left-color: transparent;
+}
+#customize-controls #sub-accordion-section-martanda_template_parts_section.control-section .customize-control-martanda-template-parts-section .accordion-section-title:focus, #customize-controls #sub-accordion-section-martanda_template_parts_section.control-section .customize-control-martanda-template-parts-section .accordion-section-title:hover {
+    color: #2271b1;
+    background: #f6f7f7;
+    border-left-color: #2271b1;
+}
